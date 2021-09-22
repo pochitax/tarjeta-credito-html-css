@@ -8,7 +8,7 @@ body {
     overflow: hidden;
 }
 .tarjeta {
-    margin: 0;
+    margin: 0 auto;
     color: #fff;
     position: absolute; /*relative;*/
     display: block;
